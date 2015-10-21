@@ -19,6 +19,10 @@
   padding: 4px;
 }
 
+.image-footer {
+  vertical-align: middle;
+}
+
 .image-number {
   display: inline-block;
   vertical-align: middle;
