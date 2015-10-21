@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  list-style: none;
+}
+
+.octocat {
+  width: 30%;
+  display: inline-block;
+  border-bottom: 1px solid #ddd9d9;
+}
+
+.octocat a img {
+  width: 300px;
+  height: auto;
+  border: 1px solid #ddd9d9;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.image-footer {
+  vertical-align: middle;
+}
+
+.image-number {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.image-caption {
+  display: flex;
+  float: right;
+  padding: 5px;
+  vertical-align: middle;
+}
+
+.authors a img {
+  float: right;
+  width: 25px;
+  height: auto;
+  border: none;
+  border-radius: 1px;
+}
